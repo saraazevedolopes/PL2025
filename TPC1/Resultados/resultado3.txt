@@ -1,0 +1,2 @@
+Entrada: "off10on50=off30on20=^Con123s1212="
+Saída esperada: [50, 70, 1405]

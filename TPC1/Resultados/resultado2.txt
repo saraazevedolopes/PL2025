@@ -1,0 +1,2 @@
+Entrada: "xxon10!!off??30#on50=tfdwgyqshjon10gddbdof2hwbuwbdonoied6="
+Saída esperada: [60, 78]

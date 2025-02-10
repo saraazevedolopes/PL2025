@@ -1,0 +1,2 @@
+Entrada: "on10off20on30=on40="
+Saída esperada: [40, 80]
